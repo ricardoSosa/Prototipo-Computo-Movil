@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/back_button"
+        android:layout_width="160px"
+        android:layout_height="wrap_content"
+        android:drawableStart="@android:drawable/ic_menu_revert"
+        />
+
+    <TextView
+        android:id="@+id/title_name"
+        android:text="Hola"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textSize="30sp"/>
+
+    <ImageView
+        android:id="@+id/title_image"
+        android:layout_width="match_parent"
+        android:layout_height="101dp" />
+
+    <RelativeLayout
+        android:layout_width="650px"
+        android:layout_height="201dp"
+        android:layout_gravity="center"
+        android:background="@color/colorAccent">
+        <TextView
+            android:id="@+id/description"
+            android:text="Hola"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:textColor="@color/colorPrimary" />
+        <TextView
+            android:id="@+id/price_steam"
+            android:text="Hola"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:textColor="@color/colorPrimary"
+            android:layout_below="@id/description"
+            android:layout_marginTop="40dp"/>
+        <TextView
+            android:id="@+id/price_hb"
+            android:text="Hola"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:textColor="@color/colorPrimary"
+            android:layout_below="@id/price_steam"/>
+    </RelativeLayout>
+
+
+</LinearLayout>

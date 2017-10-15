@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="categories_array">
+        <item>Sin filtro</item>
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Sports</item>
+    </string-array>
+
+    <string-array name="prices_array">
+        <item>Sin filtro</item>
+        <item>Descendente</item>
+        <item>Ascendente</item>
+    </string-array>
+
+    <string-array name="cuphead">
+        <item>Cuphead</item>
+        <item>Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings.</item>
+        <item>Action,Indie</item>
+        <item>29,Sep,2017</item>
+        <item>http://cdn.akamai.steamstatic.com//steam//apps//268910//header.jpg?t=1507409276</item>
+        <item>19.99</item>
+        <item>0</item>
+        <item>19.99</item>
+        <item>19.99</item>
+        <item>0</item>
+        <item>19.99</item>
+    </string-array>
+
+    <string-array name="nba2k18">
+        <item>NBA 2K18</item>
+        <item>The future of sports career modes has arrived, allowing you to play the game the way you like. Build your career in NBA games, hit the courts in The Playground Park, join the Pro-Am circuit, or explore the shops and venues in an all-new open neighborhood setting. Featuring new MyPLAYER upgrade and endorsement systems, our biggest cast of characters to date including NBA players, and so much more.</item>
+        <item>Simulation,Sports</item>
+        <item>14,Sep,2016</item>
+        <item>http://cdn.akamai.steamstatic.com//steam//apps//577800//header.jpg?t=1507660027</item>
+        <item>59.99</item>
+        <item>0</item>
+        <item>59.99</item>
+        <item>59.99</item>
+        <item>0</item>
+        <item>59.99</item>
+    </string-array>
+
+    <string-array name="vallHalla">
+        <item>VA-11 Hall-A: Cyberpunk Bartender Action</item>
+        <item></item>
+        <item>Adventure,Indie,Simulation</item>
+        <item>21,Jun,2016</item>
+        <item>http://cdn.akamai.steamstatic.com//steam//apps//447530//header.jpg?t=1487178065</item>
+        <item>14.99</item>
+        <item>0</item>
+        <item>14.99</item>
+        <item>14.99</item>
+        <item>33%</item>
+        <item>10.04</item>
+    </string-array>
+
+    <string-array name="projectCars2">
+        <item>Project CARS 2</item>
+        <item>Take your ultimate driver journey to the max. Grab the Project CARS 2 Deluxe Edition and get accesss to the full game, Season Pass, and all bonus content including new cars, tracks, events, liveries.</item>
+        <item>Racing</item>
+        <item>21,Sep,2017</item>
+        <item>http://cdn.akamai.steamstatic.com//steam//apps//378860//header.jpg?t=1506067137</item>
+        <item>59.99</item>
+        <item>0</item>
+        <item>59.99</item>
+        <item>59.99</item>
+        <item>0</item>
+        <item>59.99</item>
+    </string-array>
+
+    <string-array name="theWitcher3">
+        <item>The Witcher 3: Wild Hunt</item>
+        <item>The Witcher: Wild Hunt is a story-driven, next-generation open world role-playing game set in a visually stunning fantasy universe full of meaningful choices and impactful consequences. In The Witcher you play as the professional monster hunter, Geralt of Rivia, tasked with finding a child of prophecy in a vast open world rich with merchant cities, viking pirate islands, dangerous mountain passes, and forgotten caverns to explore.</item>
+        <item>RPG</item>
+        <item>18,May,2015</item>
+        <item>http://cdn.akamai.steamstatic.com//steam//apps//292030//header.jpg?t=1479919850</item>
+        <item>39.99</item>
+        <item>0</item>
+        <item>39.99</item>
+        <item>39.99</item>
+        <item>0</item>
+        <item>39.99</item>
+    </string-array>
+
+    <string-array name="cryptOfTheNecroDancer">
+        <item>Crypt of the NecroDancer</item>
+        <item>Crypt of the NecroDancer is an award winning hardcore roguelike rhythm game. Move to the music and deliver beatdowns to the beat! Groove to the epic Danny Baranowsky soundtrack, or select songs from your own MP3 collection!</item>
+        <item>Action, Indie, RPG</item>
+        <item>23,Apr,2015</item>
+        <item>http://cdn.akamai.steamstatic.com//steam//apps//247080//header.jpg?t=1504997534</item>
+        <item>14.99</item>
+        <item>0</item>
+        <item>14.99</item>
+        <item>2.99</item>
+        <item>80%</item>
+        <item>2.99</item>
+    </string-array>
+</resources>

@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/gameImage"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@+id/gameImage"
+        android:background="@color/colorAccent">
+
+        <TextView
+            android:id="@+id/price_steam"
+            android:text="Hola"
+            android:layout_width="match_parent"
+            android:layout_height="16dp"
+            android:textColor="@color/colorPrimary" />
+
+        <TextView
+            android:id="@+id/price_hb"
+            android:text="Hola"
+            android:layout_width="match_parent"
+            android:layout_height="18dp"
+            android:textColor="@color/colorPrimary" />
+
+        <TextView
+            android:id="@+id/categories"
+            android:text="Hola"
+            android:layout_width="match_parent"
+            android:layout_height="23dp"
+            android:textSize="10sp"
+            android:textColor="@color/colorPrimary" />
+
+    </LinearLayout>
+
+</RelativeLayout>
